@@ -56,3 +56,12 @@ body {
                 gap: 15px;
             }
         }
+        .section ul {
+    list-style-type: disc;
+    padding-left: 40px;
+        }
+
+        .section li {
+    display: list-item;
+        }
+
